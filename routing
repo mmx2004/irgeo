@@ -1,0 +1,31 @@
+https://routing.happ.su/
+
+{
+    "Name": "Iran-Direct-MMX",
+    "GlobalProxy": "true",
+    "UseChunkFiles": "true",
+    "RemoteDNSType": "DoH",
+    "RemoteDNSDomain": "",
+    "RemoteDNSIP": "",
+    "DomesticDNSType": "DoH",
+    "DomesticDNSDomain": "",
+    "DomesticDNSIP": "",
+    "Geoipurl": "https://github.com/mmx2004/irgeo/releases/download/2025.11.11/geoip.dat",
+    "Geositeurl": "https://github.com/mmx2004/irgeo/releases/download/2025.11.11/geosite.dat",
+    "LastUpdated": "",
+    "DnsHosts": {},
+    "DirectSites": [
+        "geosite:ir"
+    ],
+    "DirectIp": [
+        "geoip:ir"
+    ],
+    "ProxySites": [],
+    "ProxyIp": [],
+    "BlockSites": [],
+    "BlockIp": [],
+    "DomainStrategy": "IPIfNonMatch",
+    "FakeDNS": "false"
+}
+
+happ://routing/add/ewogICAgIk5hbWUiOiAiSXJhbi1EaXJlY3QtTU1YIiwKICAgICJHbG9iYWxQcm94eSI6ICJ0cnVlIiwKICAgICJVc2VDaHVua0ZpbGVzIjogInRydWUiLAogICAgIlJlbW90ZUROU1R5cGUiOiAiRG9IIiwKICAgICJSZW1vdGVETlNEb21haW4iOiAiIiwKICAgICJSZW1vdGVETlNJUCI6ICIiLAogICAgIkRvbWVzdGljRE5TVHlwZSI6ICJEb0giLAogICAgIkRvbWVzdGljRE5TRG9tYWluIjogIiIsCiAgICAiRG9tZXN0aWNETlNJUCI6ICIiLAogICAgIkdlb2lwdXJsIjogImh0dHBzOi8vZ2l0aHViLmNvbS9tbXgyMDA0L2lyZ2VvL3JlbGVhc2VzL2Rvd25sb2FkLzIwMjUuMTEuMTEvZ2VvaXAuZGF0IiwKICAgICJHZW9zaXRldXJsIjogImh0dHBzOi8vZ2l0aHViLmNvbS9tbXgyMDA0L2lyZ2VvL3JlbGVhc2VzL2Rvd25sb2FkLzIwMjUuMTEuMTEvZ2Vvc2l0ZS5kYXQiLAogICAgIkxhc3RVcGRhdGVkIjogIiIsCiAgICAiRG5zSG9zdHMiOiB7fSwKICAgICJEaXJlY3RTaXRlcyI6IFsKICAgICAgICAiZ2Vvc2l0ZTppciIKICAgIF0sCiAgICAiRGlyZWN0SXAiOiBbCiAgICAgICAgImdlb2lwOmlyIgogICAgXSwKICAgICJQcm94eVNpdGVzIjogW10sCiAgICAiUHJveHlJcCI6IFtdLAogICAgIkJsb2NrU2l0ZXMiOiBbXSwKICAgICJCbG9ja0lwIjogW10sCiAgICAiRG9tYWluU3RyYXRlZ3kiOiAiSVBJZk5vbk1hdGNoIiwKICAgICJGYWtlRE5TIjogImZhbHNlIgp9
